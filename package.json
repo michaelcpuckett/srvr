@@ -4,7 +4,8 @@
   "description": "Mustache-powered web server",
   "main": "app.js",
   "dependencies": {
-    "mustache": "^0.8.2"
+    "mustache": "^0.8.2",
+    "native-promise-only": "^0.7.6-a"
   },
   "devDependencies": {},
   "scripts": {

@@ -2,6 +2,7 @@ var config = require('./config'),
     routes = require('./routes'),
     http = require('http'),
     Mustache = require('mustache'),
+    Promise = Promise || require('native-promise-only'),
     fs = require('fs');
 
 function getTemplate (routeData) {
