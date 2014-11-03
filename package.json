@@ -1,0 +1,23 @@
+{
+  "name": "srvr",
+  "version": "0.1.0",
+  "description": "Mustache-powered web server",
+  "main": "app.js",
+  "dependencies": {
+    "mustache": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelcpuckett/srvr.git"
+  },
+  "author": "Michael Puckett <michaelcpuckett@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelcpuckett/srvr/issues"
+  },
+  "homepage": "https://github.com/michaelcpuckett/srvr"
+}

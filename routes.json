@@ -1,0 +1,13 @@
+{
+    "/about": {
+        "templateUrl": "about/view.mustache",
+        "controllerUrl": "about/ctrl.js",
+        "dataSources": [{
+            "name": "user",
+            "url": "data/user.json"
+        }, {
+            "name": "blogs",
+            "url": "data/blogs.json"
+        }]
+    }
+}
